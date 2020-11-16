@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NRELViewer", "NRELViewer.csproj", "{302442D0-6D5D-4C9C-8FBB-261A32F08FF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{302442D0-6D5D-4C9C-8FBB-261A32F08FF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{302442D0-6D5D-4C9C-8FBB-261A32F08FF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{302442D0-6D5D-4C9C-8FBB-261A32F08FF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{302442D0-6D5D-4C9C-8FBB-261A32F08FF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDCA9069-A5B0-415E-83FE-2296992CC188}
+	EndGlobalSection
+EndGlobal
